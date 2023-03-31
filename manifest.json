@@ -24,7 +24,7 @@
         }
     ],
     "start_url": "/index.html",
-    "scope": ".",
+    "scope": "https://andreasnicot.github.io/UTS-AMBW/",
     "display": "standalone",
     "orientation": "portrait-primary",
     "background_color": "#fff",
